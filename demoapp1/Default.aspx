@@ -10,6 +10,15 @@
     <form id="form1" runat="server">
         <div>
             this is new application....
+
+            “Happiness is a direction, not a place.” – ...
+
+“Happiness depends upon ourselves.” – ...
+
+“A great obstacle to happiness is to expect too much happiness.” – ...
+
+“It is not how much we have, but how much we enjoy, that makes happiness.” –
+
         </div>
     </form>
 </body>
